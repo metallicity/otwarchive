@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+	<rect x="0" y="0" width="100" height="100" fill="#e6d200"></rect>
+	<g text-anchor="middle" font-family="Fertigo_PRO" fill="white" stroke="rgba(30, 30, 30, 0.15)" stroke-width="2">
+		<text x="50" y="85" font-size="100">T</text>
+	</g>
+</svg>

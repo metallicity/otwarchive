@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+  <rect x="0" y="0" width="100" height="100" fill="#0043a7"></rect>
+  <g fill="transparent" stroke="white" stroke-width="8">
+    <circle cx="40" cy="62" r="28"></circle>
+    <line x1="62" y1="44" x2="90" y2="16"></line>
+    <path d="M 62 16 H 90 V 44"></path>
+  </g>
+</svg>
